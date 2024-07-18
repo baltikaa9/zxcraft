@@ -1,6 +1,10 @@
-/config
-/journeymap
-/logs
+/config/
+/journeymap/
+/logs/
+/world/
+/.fabric/
+/versions/
+/libraries/
 banned-ips.json
 banned-players.json
 ops.json
